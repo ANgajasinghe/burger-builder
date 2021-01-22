@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f96ef352-d08a-4dd0-870d-6abb9143b06c" name="Default Changelist" comment="auxiliary component and basic project setup" />
+    <list default="true" id="f96ef352-d08a-4dd0-870d-6abb9143b06c" name="Default Changelist" comment="auxiliary component and basic project setup">
+      <change afterPath="$PROJECT_DIR$/src/components/Burger/Burger.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Burger/Burger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Burger/BurgerIngredients/BurgerIngredient.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Burger/BurgerIngredients/BurgerIngredient.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,15 +30,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nKbHHZQ8apckIYFUkZVYU8Lqlg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/Burger" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -37,6 +51,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Akalanka Nayanajith\Desktop\React\burger-builder\src\components\Burger" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -48,6 +67,7 @@
       <updated>1611141651517</updated>
       <workItem from="1611141657040" duration="660000" />
       <workItem from="1611144576458" duration="1832000" />
+      <workItem from="1611326990594" duration="3209000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1611142746616</created>
@@ -82,6 +102,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit" />
     <MESSAGE value="auxiliary component and basic project setup" />
     <option name="LAST_COMMIT_MESSAGE" value="auxiliary component and basic project setup" />
