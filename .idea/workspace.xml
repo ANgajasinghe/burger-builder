@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f96ef352-d08a-4dd0-870d-6abb9143b06c" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/components/Layout/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hoc/Auxiliary.component.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-    </list>
+    <list default="true" id="f96ef352-d08a-4dd0-870d-6abb9143b06c" name="Default Changelist" comment="auxiliary component and basic project setup" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611141651517</updated>
       <workItem from="1611141657040" duration="660000" />
-      <workItem from="1611144576458" duration="1714000" />
+      <workItem from="1611144576458" duration="1832000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1611142746616</created>
@@ -67,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611142746617</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="auxiliary component and basic project setup">
+      <created>1611146332514</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611146332514</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +83,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="auxiliary component and basic project setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="auxiliary component and basic project setup" />
   </component>
 </project>
