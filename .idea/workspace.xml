@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f96ef352-d08a-4dd0-870d-6abb9143b06c" name="Default Changelist" comment="12. Outputting Burger Ingredients Dynamically">
+    <list default="true" id="f96ef352-d08a-4dd0-870d-6abb9143b06c" name="Default Changelist" comment="13. Work with reducer() =&gt; For transform array">
+      <change afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl/BuildControl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Burger/Burger.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/Burger.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +20,8 @@
       <list>
         <option value="HTML File" />
         <option value="TypeScript JSX File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -45,6 +48,7 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -64,7 +68,9 @@
       <workItem from="1611141657040" duration="660000" />
       <workItem from="1611144576458" duration="1832000" />
       <workItem from="1611326990594" duration="3362000" />
-      <workItem from="1611484565792" duration="1105000" />
+      <workItem from="1611484565792" duration="1442000" />
+      <workItem from="1611486049482" duration="166000" />
+      <workItem from="1611486249236" duration="3472000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1611142746616</created>
@@ -87,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611336228315</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="13. Work with reducer() =&gt; For transform array">
+      <created>1611485767599</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611485767599</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +123,7 @@
     <MESSAGE value="commit" />
     <MESSAGE value="auxiliary component and basic project setup" />
     <MESSAGE value="12. Outputting Burger Ingredients Dynamically" />
-    <option name="LAST_COMMIT_MESSAGE" value="12. Outputting Burger Ingredients Dynamically" />
+    <MESSAGE value="13. Work with reducer() =&gt; For transform array" />
+    <option name="LAST_COMMIT_MESSAGE" value="13. Work with reducer() =&gt; For transform array" />
   </component>
 </project>
