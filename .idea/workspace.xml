@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f96ef352-d08a-4dd0-870d-6abb9143b06c" name="Default Changelist" comment="auxiliary component and basic project setup">
-      <change afterPath="$PROJECT_DIR$/src/components/Burger/Burger.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Burger/Burger.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Burger/BurgerIngredients/BurgerIngredient.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Burger/BurgerIngredients/BurgerIngredient.js" afterDir="false" />
+    <list default="true" id="f96ef352-d08a-4dd0-870d-6abb9143b06c" name="Default Changelist" comment="12. Outputting Burger Ingredients Dynamically">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Burger/Burger.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/Burger.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +63,8 @@
       <updated>1611141651517</updated>
       <workItem from="1611141657040" duration="660000" />
       <workItem from="1611144576458" duration="1832000" />
-      <workItem from="1611326990594" duration="3209000" />
+      <workItem from="1611326990594" duration="3362000" />
+      <workItem from="1611484565792" duration="1105000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1611142746616</created>
@@ -83,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611146332514</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="12. Outputting Burger Ingredients Dynamically">
+      <created>1611336228314</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611336228315</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +109,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit" />
     <MESSAGE value="auxiliary component and basic project setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="auxiliary component and basic project setup" />
+    <MESSAGE value="12. Outputting Burger Ingredients Dynamically" />
+    <option name="LAST_COMMIT_MESSAGE" value="12. Outputting Burger Ingredients Dynamically" />
   </component>
 </project>
