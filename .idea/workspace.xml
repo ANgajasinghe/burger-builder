@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f96ef352-d08a-4dd0-870d-6abb9143b06c" name="Default Changelist" comment="24. Add UI components create custom button components">
+    <list default="true" id="f96ef352-d08a-4dd0-870d-6abb9143b06c" name="Default Changelist" comment="Stop unnecessary rendering">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/Modal/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Modal/Modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc/Layout/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc/Layout/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +56,10 @@
       <recent name="C:\Users\Akalanka Nayanajith\Desktop\React\burger-builder\src\components" />
       <recent name="C:\Users\Akalanka Nayanajith\Desktop\React\burger-builder\src\components\Burger" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Akalanka Nayanajith\Desktop\React\burger-builder\src\hoc" />
+      <recent name="C:\Users\Akalanka Nayanajith\Desktop\React\burger-builder\src\containers" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -69,7 +76,7 @@
       <workItem from="1611486049482" duration="166000" />
       <workItem from="1611486249236" duration="10299000" />
       <workItem from="1611509278860" duration="2300000" />
-      <workItem from="1611951079110" duration="3115000" />
+      <workItem from="1611951079110" duration="3574000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1611142746616</created>
@@ -127,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611953176655</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Stop unnecessary rendering">
+      <created>1611958196773</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1611958196773</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +169,7 @@
     <MESSAGE value="19. Removing and change UI according to user actions" />
     <MESSAGE value="24. Add UI components create custom button components" />
     <MESSAGE value="add bootstrap and navigations" />
-    <option name="LAST_COMMIT_MESSAGE" value="add bootstrap and navigations" />
+    <MESSAGE value="Stop unnecessary rendering" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stop unnecessary rendering" />
   </component>
 </project>
